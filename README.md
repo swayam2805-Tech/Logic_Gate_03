@@ -70,7 +70,7 @@ Target hardware platform used for implementation.
 ### Implemented Design
 
 Final implemented design after synthesis and implementation in Vivado.
-![Implemented Design](Implemented.png)
+![Implemented Design](implemented.png)
 
 ## How to Run the Project
 
